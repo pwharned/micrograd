@@ -1,0 +1,5 @@
+/home/pat/Projects/personalProjects/micrograd/cpp/build/CMakeFiles/tests.dir
+/home/pat/Projects/personalProjects/micrograd/cpp/build/CMakeFiles/main.dir
+/home/pat/Projects/personalProjects/micrograd/cpp/build/CMakeFiles/test.dir
+/home/pat/Projects/personalProjects/micrograd/cpp/build/CMakeFiles/edit_cache.dir
+/home/pat/Projects/personalProjects/micrograd/cpp/build/CMakeFiles/rebuild_cache.dir

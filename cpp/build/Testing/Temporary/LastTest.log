@@ -1,0 +1,19 @@
+Start testing: Mar 14 09:55 EDT
+----------------------------------------------------------
+1/1 Testing: MyTest
+1/1 Test: MyTest
+Command: "/home/pat/Projects/personalProjects/micrograd/cpp/build/tests"
+Directory: /home/pat/Projects/personalProjects/micrograd/cpp/build
+"MyTest" start time: Mar 14 09:55 EDT
+Output:
+----------------------------------------------------------
+Hello, CMake World!
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"MyTest" end time: Mar 14 09:55 EDT
+"MyTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Mar 14 09:55 EDT
